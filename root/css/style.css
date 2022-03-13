@@ -1,0 +1,116 @@
+body {
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Overlock', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+    background-image: url(../img/wave-1817646_960_720.webp);
+    background-size: cover;
+    box-sizing: border-box;
+    border-bottom: 6px solid black;
+}
+
+header h1 {
+    font-family: 'Shadows Into Light', Sans-serif;
+    font-size: 100px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 20px;
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    margin: 0px;
+    border-bottom: rgb(8, 183, 252) 5px solid;
+}
+
+.sobremi {
+    font-family: 'Roboto', Sans-serif;
+    font-size: 25px; 
+    text-align: justify;
+    box-sizing: border-box;
+    margin-left: 20px;
+}
+
+section h2 {
+    font-family: 'Overlock', Sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    text-align: justify;
+    letter-spacing: 5px;
+    background-color: #e6e9ed;
+    box-sizing: border-box;
+    margin: 0px;
+    padding-left: 10px;
+}
+
+.datospersonales {
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: justify;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.experiencia {
+    font-family: Roboto, sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: justify;
+    list-style: none;
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+#pie {
+    display: flex;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    flex-direction: column;
+    margin: 0px;
+    border-top: rgb(8, 183, 252) 5px solid;
+}
+
+footer h3 {
+    font-family: 'Architects Daughter', cursive;
+    font-size: 35px;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+footer h4 {
+    font-family: 'Architects Daughter', cursive;
+    font-size: 25px;
+    letter-spacing: 5px;
+    margin: 10px;
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+
+#redessociales {
+    display: flex;
+    justify-content:flex-start;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+#instagram {
+    display: flex;
+    margin-right: 30px;
+    margin-left: 13px;
+    box-sizing: border-box;
+    font-size: 35px;
+}
+
+#linkedin {
+    display: flex;
+    margin-right: 30px;
+    margin-left: 20px;
+    box-sizing: border-box;
+    font-size: 35px;
+}
